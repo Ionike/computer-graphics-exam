@@ -1,3 +1,3 @@
 # computer-graphics-exam
 backup
-weiler is actually midpoint ellipse scan.
+the weiler project is midpoint ellipse scan
