@@ -1,0 +1,3 @@
+C:/Users/megu/CLionProjects/Midpoint circle/cmake-build-debug/CMakeFiles/Midpoint_circle.dir
+C:/Users/megu/CLionProjects/Midpoint circle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/megu/CLionProjects/Midpoint circle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
