@@ -1,0 +1,3 @@
+C:/Users/megu/CLionProjects/bresenham/cmake-build-debug/CMakeFiles/bresenham.dir
+C:/Users/megu/CLionProjects/bresenham/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/megu/CLionProjects/bresenham/cmake-build-debug/CMakeFiles/rebuild_cache.dir
